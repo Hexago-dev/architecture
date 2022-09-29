@@ -1,0 +1,6 @@
+{
+    "order_pages": ["sectionOne.html", "sectionTwo.html", "sectionThree.html"],
+    "styles_pages": ["sectionOne.css", "sectionTwo.css", "sectionThree.css"],
+    "scripts_files": ["temp.js"]
+
+}

@@ -1,0 +1,33 @@
+[theme="default"] {
+    --main-color: #ffffff;
+}
+
+[theme="primary"] {
+    --main-color: #f9bd5f;
+}
+
+[theme="purple"] {
+    --main-color: #db5cba;
+}
+
+[theme="blue"] {
+    --main-color: #3ab2da;
+}
+
+[theme="green"] {
+    --main-color: #2ad4ae;
+}
+
+[theme="pink"] {
+    --main-color: #dc5474;
+}
+
+* {
+    transition: background-color .4s ease-in-out;
+}
+
+.theme-selector {
+    padding: 10px;
+    font-size: 1.5rem;
+    border-radius: 5px;
+}

@@ -1,0 +1,30 @@
+.sectionThree {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background-color: #ab69c6;
+    justify-content: center;
+    align-items: center;
+}
+
+.sectionThree h1 {
+    color: #fff;
+}
+
+.sectionThree small {
+    font-weight: 100;
+    color: #fff;
+    font-size: 0.8rem;
+}
+
+.sectionThree img {
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+}
+
+.sectionThree.is-active {
+    transition: background-color .6s ease-in-out;
+    background-color: #39d5ff;
+}

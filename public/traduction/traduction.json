@@ -1,0 +1,15 @@
+{
+    "lang": {
+        "en": "anglais",
+        "fr": "francais",
+        "mg": "malagasy"
+    },
+
+    "traduction": {
+        "salutation": {
+            "fr": "bonjour",
+            "en": "good morgning",
+            "mg": "Salama ianao"
+        }
+    }
+}

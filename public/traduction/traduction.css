@@ -1,0 +1,17 @@
+.RmSelectTraduction select {
+    background-color: transparent;
+    color: #fff;
+    font-size: 18px;
+    outline: none;
+    width: 150px;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+
+.RmSelectTraduction select option {
+    margin: 40px;
+    background: #222222;
+    color: #fff;
+    border: none;
+}
